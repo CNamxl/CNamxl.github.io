@@ -27,10 +27,10 @@ setInterval(() => {
       time[4] = nol(second);
     }
     if ((Number(time[2])<22) && (Number(time[2])>7)){
-      currentTimeHtml ="<img class='boardsign' src='https://img.cnamxl.icu/img/logo.webp消炎药-营业中-6adea8?style=social&logo=cakephp' title='今天也是被自己菜到的一天呢~'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
+      currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/消炎药👾-营业中-6adea8?style=social&logo=cakephp' title='今天也是被自己菜到的一天呢~'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
     }
     else{
-      currentTimeHtml ="<img class='boardsign' src='https://img.cnamxl.icu/img/logo.webp消炎药-打烊了-6adea8?style=social&logo=coffeescript' title='睇咩？该去睡觉啦，熬夜对身体不好哦'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
+      currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/消炎药👾-打烊了-6adea8?style=social&logo=coffeescript' title='睇咩？该去睡觉啦，熬夜对身体不好哦'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
     }
     document.getElementById("workboard").innerHTML = currentTimeHtml;
   }, 1000);

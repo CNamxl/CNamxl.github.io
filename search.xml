@@ -4,9 +4,36 @@
   
     
     <entry>
+      <title>Unix环境编程</title>
+      <link href="/2023/04/05/APUE(1)/"/>
+      <url>/2023/04/05/APUE(1)/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 硬件开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> APUE </tag>
+            
+            <tag> C语言 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Review of Linear Algebra</title>
-      <link href="/2023/04/03/hello-world/"/>
-      <url>/2023/04/03/hello-world/</url>
+      <link href="/2023/04/03/games101(1)/"/>
+      <url>/2023/04/03/games101(1)/</url>
       
         <content type="html"><![CDATA[]]></content>
       
