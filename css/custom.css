@@ -315,3 +315,23 @@ svg.social_icon {
   display: inline-block;
   position: relative;
 }
+
+:root {
+  --ichika-color: #39c5bb;
+}
+
+/* 公告&欢迎页 */
+.card-announcement {
+  line-height:30px;
+  font-size:16px;
+}
+
+.card-announcement .item-headline span{
+  margin-left:0!important;
+}
+
+.card-announcement span{
+  font-weight:bold;
+  font-size:20px!important;
+  color:var(--ichika-color);
+}

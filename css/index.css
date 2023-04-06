@@ -2040,7 +2040,7 @@ figure.highlight pre .javascript .function {
   border-color: var(--pseudo-hover);
 }
 .article-sort-item-time {
-  color: #050b17;
+  color: #39c5bb;
   font-size: 95%;
 }
 .article-sort-item-time time {
@@ -2099,7 +2099,7 @@ figure.highlight pre .javascript .function {
 }
 .category-lists .category-list .category-list-count {
   margin-left: 8px;
-  color: #050b17;
+  color: #39c5bb;
 }
 .category-lists .category-list .category-list-count:before {
   content: '(';
@@ -2442,7 +2442,7 @@ figure.highlight pre .javascript .function {
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
   margin: 6px 0;
-  color: #050b17;
+  color: #39c5bb;
   font-size: 90%;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .post-meta-date {
@@ -2470,7 +2470,7 @@ figure.highlight pre .javascript .function {
   display: none;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap a {
-  color: #050b17;
+  color: #39c5bb;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap a:hover {
   color: #39c5bb;
@@ -2662,7 +2662,7 @@ h1.page-title + .tag-cloud-list {
 #aside-content .aside-list > .aside-list-item .content > time,
 #aside-content .aside-list > .aside-list-item .content > .name {
   display: block;
-  color: #050b17;
+  color: #39c5bb;
   font-size: 85%;
 }
 #aside-content .aside-list > .aside-list-item .content > .title,
