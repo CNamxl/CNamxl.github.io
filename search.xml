@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>stm32单片机开发(1)-LED流水灯</title>
+      <link href="/2023/04/11/stm32(1)/"/>
+      <url>/2023/04/11/stm32(1)/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="1-高速时钟使能"><a href="#1-高速时钟使能" class="headerlink" title="1.高速时钟使能"></a>1.高速时钟使能</h1><p>因为使用实验室提供的小熊座开发板，时钟配置具体情况以原理图为准<br>Pinout下 在RCC中将High Speed Clock 中将Crystal(晶振)使能<br>Clock Configuration下HSI RC 系统默认勾选MSI<br>若要使用外部晶振 选择HSE 和PLLCLK并将HCLK改为与原理图一样的</p><h1 id="2-GPIO"><a href="#2-GPIO" class="headerlink" title="2.GPIO"></a>2.GPIO</h1><p>CPU的引脚可以输入输出<br>将LED对应的引脚配置为GPIO输出模式(GPIO_Output)<br>由原理图可知，高电平时LED无压降，故低电平时灯亮<br>为了使程序运行开始时LED灯不亮，需要在GPIO处把GPIO_Output_Level设为High。由于是弱点输出，故选择Output Push Pull</p><h1 id="3-编写程序"><a href="#3-编写程序" class="headerlink" title="3.编写程序"></a>3.编写程序</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"> <span class="comment">//在while中编写</span></span><br><span class="line">   HAL_GPIO_WritePin(GPIOB,GPIO_Pin_5,GPIO_PIN_RESET);</span><br><span class="line">HAL_Delay(<span class="number">500</span>);</span><br><span class="line">HAL_GPIO_WritePin(GPIOB,GPIO_Pin_5,GPIO_PIN_SET);</span><br><span class="line"></span><br><span class="line">HAL_GPIO_WritePin(GPIOB,GPIO_Pin_6,GPIO_PIN_RESET);</span><br><span class="line">HAL_Delay(<span class="number">500</span>);</span><br><span class="line">HAL_GPIO_WritePin(GPIOB,GPIO_Pin_6,GPIO_PIN_SET);</span><br><span class="line"></span><br><span class="line">HAL_GPIO_WritePin(GPIOB,GPIO_Pin_7,GPIO_PIN_RESET);</span><br><span class="line">HAL_Delay(<span class="number">500</span>);</span><br><span class="line">HAL_GPIO_WritePin(GPIOB,GPIO_Pin_7,GPIO_PIN_SET);</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 硬件开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C语言 </tag>
+            
+            <tag> 嵌入式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Transform</title>
       <link href="/2023/04/09/games101(2)/"/>
       <url>/2023/04/09/games101(2)/</url>
