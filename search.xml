@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>《DOTS之路》第零节——前导课(1)——DOTS的5W1H问题</title>
+      <link href="/2023/07/08/Unity-dots(1)/"/>
+      <url>/2023/07/08/Unity-dots(1)/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>DOTS是Data-Orinted-Technology-Stack(面向数据的技术栈)的简写<br>DOTS的具体构成如下：</p><ol><li>The C# job system(job包可以帮助开发者利用现代CPU的多核设计特性来处理多线程任务)</li><li>The Burst compiler(Burst包，可以高效编译unity任意代码)</li><li>Unity Mathematics(可以在job system中使用的数学库)</li><li>Unity Collections(常见的集合类型)</li><li>Entities(Entity-Componet System取代GameObject的实体组件系统)</li></ol><p>·Entities.Graphics(Hybrid Renderer)-基于优化CPU(不优化GPU)并且支持URP和HDRP的渲染解决方案<br>·Netcode-网络解决方案<br>·Physics-物理解决方案<br>·Animation-动画解决方案<br>·Audio-音频解决方案</p><p>DOTS应用场景:<br>具有大世界流式加载的游戏<br>具有复杂的大规模模拟的游戏<br>具有多种网络类型的多人连线游戏<br>具有需要客户端模拟预测的网络游戏，如射击游戏</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> DOTS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Unity </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>VS2022与VScode使用手记</title>
       <link href="/2023/06/21/VS2022%E4%B8%8EVScode%E4%BD%BF%E7%94%A8%E6%89%8B%E8%AE%B0/"/>
       <url>/2023/06/21/VS2022%E4%B8%8EVScode%E4%BD%BF%E7%94%A8%E6%89%8B%E8%AE%B0/</url>
