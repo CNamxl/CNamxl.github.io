@@ -4,136 +4,11 @@
   
     
     <entry>
-      <title>本站</title>
-      <link href="/2023/06/20/%E7%BD%91%E7%AB%99%E7%BB%B4%E6%8A%A4%E6%97%A5%E5%BF%97/"/>
-      <url>/2023/06/20/%E7%BD%91%E7%AB%99%E7%BB%B4%E6%8A%A4%E6%97%A5%E5%BF%97/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="1-图床和图片"><a href="#1-图床和图片" class="headerlink" title="1.图床和图片"></a>1.图床和图片</h1><p>本站目前使用的图床是基于github仓库的图床,具体实现方法请参考这个链接：<a href="https://www.fomal.cc/posts/d7fb1ba1.html">https://www.fomal.cc/posts/d7fb1ba1.html</a></p><h1 id="2-文章常用md语法"><a href="#2-文章常用md语法" class="headerlink" title="2.文章常用md语法"></a>2.文章常用md语法</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> 备忘录 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 运维 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>C#编程入门--转</title>
-      <link href="/2023/06/09/C#%E8%BD%AC/"/>
-      <url>/2023/06/09/C#%E8%BD%AC/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
-      <categories>
-          
-          <category> C# </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> C# </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>C#编程入门--承</title>
-      <link href="/2023/06/09/C#%E6%89%BF/"/>
-      <url>/2023/06/09/C#%E6%89%BF/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
-      <categories>
-          
-          <category> C# </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> C# </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>C#编程入门--起</title>
-      <link href="/2023/06/09/C#%E8%B5%B7/"/>
-      <url>/2023/06/09/C#%E8%B5%B7/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
-      <categories>
-          
-          <category> C# </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> C# </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>C#编程入门--和</title>
-      <link href="/2023/06/08/C#%E5%92%8C/"/>
-      <url>/2023/06/08/C#%E5%92%8C/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
-      <categories>
-          
-          <category> C# </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> C# </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>俄罗斯方块 C++版</title>
-      <link href="/2023/06/07/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8--%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/"/>
-      <url>/2023/06/07/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8--%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/</url>
+      <link href="/2023/07/09/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8--%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/"/>
+      <url>/2023/07/09/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8--%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>鉴于最近学习压力很大，暂时居家静养<br>为了让初次学习C++的同学了解俄罗斯方块的美妙，我建议大家去看一部电影中文名《俄罗斯方块》，英文名<br>一年前我通过抄写C#学习在控制台编写了简单的贪吃蛇代码，虽然是简单的抄写但是它确实让我用另外一个视角去理解了整个游戏引擎的架构<br>这一次我将尝试从C++底层去理解C++编程语言在游戏领域的使用方法</p><h1 id="1-步骤一"><a href="#1-步骤一" class="headerlink" title="1 步骤一"></a>1 步骤一</h1><p>打开VS2019，创建新的空项目，并做需求分析<br>模块设计相对简单<br>下面给出类图</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>#<br>《俄罗斯方块》（俄语：Тетрис，英语：Tetris），是1980年末期至1990年代初期风靡全世界的计算机游戏，是落下型益智游戏的始祖，为苏联在美国发布的娱乐软件。此游戏最初是由阿列克谢·帕基特诺夫(文章封面)在苏联设计和编写，于1984年6月6日首次发布，当时帕基特诺夫正在苏联科学院电算中心工作。此游戏的名称是由希腊语数字四前缀“tetra-”（因所有落下方块皆由四块组成）和帕基特诺夫最喜欢的运动网球（“tennis”）拼接而成。</p><p>此游戏和其续作可于几乎所有电子游戏机和计算机操作系统上游玩，亦可于图形计算器、手提电话、便携式媒体播放器、个人数码助理、互联网无线电设备上游玩，甚至能以彩蛋的形式在非媒体产品上游玩，如示波器。此游戏甚至启发了《俄罗斯方块》餐具。甚至在大楼外墙实现了相应的模式。</p><p>于1980年代，此游戏除了成为一个热门的家用计算机和街机游戏外，还成为Game Boy史上最受欢迎的游戏。《电子游戏月刊》在2007年将此游戏列为“最伟大的100个游戏”中的第1位，并获IGN列为“最伟大的100个游戏”中的第2位。截至2009年，此游戏已售出逾7000万套游戏。于2010年1月，此游戏于手提电话上已售出逾1亿套游戏。</p><p>直到今日，俄罗斯方块是有史以来最畅销的电子游戏。</p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>为了让初次学习C++的同学了解俄罗斯方块的美妙，我还建议大家去看一部电影中文名《俄罗斯方块》，英文名 <em>Tetris</em><br>一年前我通过抄写C#学习在控制台编写了简单的贪吃蛇代码，虽然是简单的抄写，但是它确实让我用另外一个视角去理解了整个游戏引擎的架构<br>这一次我将尝试从C++底层去理解C++编程语言在游戏领域的使用方法</p><h1 id="1-需求分析"><a href="#1-需求分析" class="headerlink" title="1.需求分析"></a>1.需求分析</h1><p>打开VS2019，创建新的空项目，并做需求分析<br>模块设计相对简单<br>下面给出类图</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
@@ -145,7 +20,57 @@
       
         <tags>
             
-            <tag> 游戏练习项目 </tag>
+            <tag> 游戏项目 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>VS2022与VScode使用手记</title>
+      <link href="/2023/06/21/VS2022%E4%B8%8EVScode%E4%BD%BF%E7%94%A8%E6%89%8B%E8%AE%B0/"/>
+      <url>/2023/06/21/VS2022%E4%B8%8EVScode%E4%BD%BF%E7%94%A8%E6%89%8B%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>知己知彼，百战不殆 —孙子《孙子兵法·谋攻篇》<br>在开始大批量地编程前，我们最好对自己使用的编程工具有一个比较清晰的认识<br>我将简单通过本文总结一下自己在游戏开发是遇到的IDE快捷键问题，帮助读者快速了解VScode和VS2022两款常用IDE</p><h1 id="VScode部分"><a href="#VScode部分" class="headerlink" title="VScode部分"></a>VScode部分</h1><p>你说得对，但是首先vscode是一个运行于MacOS X、Windows和Linux之上的，针对于编写现代Web和云应用的跨平台源代码编辑器；vscode免费而且功能强大，对JavaScript和NodeJS的支持非常好，自带很多功能，例如代码格式化，代码智能提示补全、Emmet插件等。<br>鉴于本人仅仅使用vscode来维护个人博客和进行一些算法练习，因此不过多介绍vscode的使用方法<br>视频连接:<a href="https://www.youtube.com/watch?v=ifTF3ags0XI">https://www.youtube.com/watch?v=ifTF3ags0XI</a></p><h2 id="CTRL-C"><a href="#CTRL-C" class="headerlink" title="CTRL + C"></a>CTRL + C</h2><p>复制</p><h2 id="CTRL-V"><a href="#CTRL-V" class="headerlink" title="CTRL + V"></a>CTRL + V</h2><p>粘贴</p><h2 id="CTRL-X"><a href="#CTRL-X" class="headerlink" title="CTRL + X"></a>CTRL + X</h2><p>剪切</p><h2 id="CTRL-P"><a href="#CTRL-P" class="headerlink" title="CTRL + P"></a>CTRL + P</h2><p>可以调出command palette<br>1.可以通过输入搜索想要的文件名<br>2.可以通过输入&gt;可以调出能用的大部分指令<br>3.可以通过#后输入驼峰命名法的任意大写字母以得到想要的类与接口</p><h2 id="CTRL-G"><a href="#CTRL-G" class="headerlink" title="CTRL + G"></a>CTRL + G</h2><p>然后输入行号锁定到对应行号</p><h2 id="Shift-←-→"><a href="#Shift-←-→" class="headerlink" title="Shift + ←/→"></a>Shift + ←/→</h2><p>作用可以等同于用鼠标拖动部分文字</p><h2 id="CTRL-←-→"><a href="#CTRL-←-→" class="headerlink" title="CTRL + ←/→"></a>CTRL + ←/→</h2><p>实现单词之间移动</p><h2 id="CTRL-D"><a href="#CTRL-D" class="headerlink" title="CTRL + D"></a>CTRL + D</h2><p>可以实现多行编辑</p><h2 id="ALT-鼠标单击"><a href="#ALT-鼠标单击" class="headerlink" title="ALT + 鼠标单击"></a>ALT + 鼠标单击</h2><p>可以实现多行编辑</p><h2 id="ALT-↑-↓"><a href="#ALT-↑-↓" class="headerlink" title="ALT + ↑/↓"></a>ALT + ↑/↓</h2><p>可以将光标停留的行上下移动</p><h2 id="ALT-SHIFT-↑-↓"><a href="#ALT-SHIFT-↑-↓" class="headerlink" title="ALT + SHIFT + ↑/↓"></a>ALT + SHIFT + ↑/↓</h2><p>一边移动一边复制</p><h2 id="CTRL-L"><a href="#CTRL-L" class="headerlink" title="CTRL + L"></a>CTRL + L</h2><p>逐行高亮代码</p><h2 id="CTRL"><a href="#CTRL" class="headerlink" title="CTRL + /"></a>CTRL + /</h2><p>注释选中代码</p><h2 id="CTRL-K"><a href="#CTRL-K" class="headerlink" title="CTRL + K"></a>CTRL + K</h2><p>清除终端的内容或报错</p><h1 id="VS-2022部分"><a href="#VS-2022部分" class="headerlink" title="VS 2022部分"></a>VS 2022部分</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 基本素养 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IDE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C#编程入门--和</title>
+      <link href="/2023/06/01/C#%E5%92%8C/"/>
+      <url>/2023/06/01/C#%E5%92%8C/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> C# </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C# </tag>
             
         </tags>
       
@@ -163,7 +88,7 @@
       
       <categories>
           
-          <category> Unity </category>
+          <category> Unity-Animation </category>
           
       </categories>
       
@@ -188,7 +113,7 @@
       
       <categories>
           
-          <category> Unity </category>
+          <category> Unity-Animation </category>
           
       </categories>
       
@@ -215,7 +140,7 @@
       
       <categories>
           
-          <category> 游戏引擎渲染 </category>
+          <category> Unity-Randering </category>
           
       </categories>
       
@@ -240,7 +165,7 @@
       
       <categories>
           
-          <category> 计算机图形学 </category>
+          <category> Computer Graphics </category>
           
       </categories>
       
@@ -265,7 +190,7 @@
       
       <categories>
           
-          <category> 计算机图形学 </category>
+          <category> Computer Graphics </category>
           
       </categories>
       
@@ -275,6 +200,106 @@
             <tag> 计算机图形学 </tag>
             
             <tag> 线性代数 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>本站运营备忘录</title>
+      <link href="/2022/12/01/%E7%BD%91%E7%AB%99%E7%BB%B4%E6%8A%A4%E6%97%A5%E5%BF%97/"/>
+      <url>/2022/12/01/%E7%BD%91%E7%AB%99%E7%BB%B4%E6%8A%A4%E6%97%A5%E5%BF%97/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="1-图床和图片"><a href="#1-图床和图片" class="headerlink" title="1.图床和图片"></a>1.图床和图片</h1><p>本站目前使用的图床是基于github仓库的图床,具体实现方法请参考这个链接:<a href="https://www.fomal.cc/posts/d7fb1ba1.html">https://www.fomal.cc/posts/d7fb1ba1.html</a><br>根据网站博主的教程，在github创建图床仓库后，可以通过如下指令将已有的图床下载到本地：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> git@github.com:用户名/图床名.git</span><br></pre></td></tr></table></figure><br>更新图床的具体步骤就是将要更新的图片放入相应文件夹中，然后在bash中输入如下命令就可以更新图床<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 将更改提交</span></span><br><span class="line">git add </span><br><span class="line">git commit -m <span class="string">&quot;更新图片&quot;</span></span><br><span class="line"><span class="comment"># 推送至github仓库</span></span><br><span class="line">git push</span><br></pre></td></tr></table></figure></p><h1 id="2-文章常用md语法"><a href="#2-文章常用md语法" class="headerlink" title="2.文章常用md语法"></a>2.文章常用md语法</h1><p>请参考此链接:<a href="https://blog.csdn.net/u014061630/article/details/81359144">https://blog.csdn.net/u014061630/article/details/81359144</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 基本素养 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 备忘录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C#编程入门--转</title>
+      <link href="/2022/03/01/C#%E8%BD%AC/"/>
+      <url>/2022/03/01/C#%E8%BD%AC/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> C# </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C# </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C#编程入门--承</title>
+      <link href="/2022/01/01/C#%E6%89%BF/"/>
+      <url>/2022/01/01/C#%E6%89%BF/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Vs2019篇"><a href="#Vs2019篇" class="headerlink" title="Vs2019篇"></a>Vs2019篇</h1><h1 id="VScode篇"><a href="#VScode篇" class="headerlink" title="VScode篇"></a>VScode篇</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> C# </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C# </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C#编程入门--起</title>
+      <link href="/2021/12/01/C#%E8%B5%B7/"/>
+      <url>/2021/12/01/C#%E8%B5%B7/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> C# </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C# </tag>
             
         </tags>
       
