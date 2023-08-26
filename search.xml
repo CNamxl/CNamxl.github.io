@@ -183,7 +183,7 @@
       <link href="/2023/06/21/VS2022%E4%B8%8EVScode%E4%BD%BF%E7%94%A8%E6%89%8B%E8%AE%B0/"/>
       <url>/2023/06/21/VS2022%E4%B8%8EVScode%E4%BD%BF%E7%94%A8%E6%89%8B%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>知己知彼，百战不殆 —孙子《孙子兵法·谋攻篇》<br>在开始大批量地编程前，我们最好对自己使用的编程工具有一个比较清晰的认识<br>我将简单通过本文总结一下自己在游戏开发是遇到的IDE快捷键问题，帮助读者快速了解VScode和VS2022两款常用IDE</p><h1 id="VScode部分"><a href="#VScode部分" class="headerlink" title="VScode部分"></a>VScode部分</h1><p>你说得对，但是首先vscode是一个运行于MacOS X、Windows和Linux之上的，针对于编写现代Web和云应用的跨平台源代码编辑器；vscode免费而且功能强大，对JavaScript和NodeJS的支持非常好，自带很多功能，例如代码格式化，代码智能提示补全、Emmet插件等。<br>鉴于本人仅仅使用vscode来维护个人博客和进行一些算法练习，因此不过多介绍vscode的使用方法<br>视频连接:<a href="https://www.youtube.com/watch?v=ifTF3ags0XI">https://www.youtube.com/watch?v=ifTF3ags0XI</a></p><h2 id="CTRL-C"><a href="#CTRL-C" class="headerlink" title="CTRL + C"></a>CTRL + C</h2><p>复制</p><h2 id="CTRL-V"><a href="#CTRL-V" class="headerlink" title="CTRL + V"></a>CTRL + V</h2><p>粘贴</p><h2 id="CTRL-X"><a href="#CTRL-X" class="headerlink" title="CTRL + X"></a>CTRL + X</h2><p>剪切</p><h2 id="CTRL-P"><a href="#CTRL-P" class="headerlink" title="CTRL + P"></a>CTRL + P</h2><p>可以调出command palette（命令面板P）<br>1.可以通过输入搜索想要的文件名<br>2.可以通过输入<strong> &gt; </strong>可以调出能用的大部分指令<br>3.可以通过#后输入驼峰命名法的任意大写字母以得到想要的类与接口</p><h2 id="CTRL-G"><a href="#CTRL-G" class="headerlink" title="CTRL + G"></a>CTRL + G</h2><p>然后输入行号锁定到对应行号</p><h2 id="Shift-←-→"><a href="#Shift-←-→" class="headerlink" title="Shift + ←/→"></a>Shift + ←/→</h2><p>作用可以等同于用鼠标拖动部分文字</p><h2 id="CTRL-←-→"><a href="#CTRL-←-→" class="headerlink" title="CTRL + ←/→"></a>CTRL + ←/→</h2><p>实现单词之间移动</p><h2 id="CTRL-D"><a href="#CTRL-D" class="headerlink" title="CTRL + D"></a>CTRL + D</h2><p>可以实现多行编辑</p><h2 id="ALT-鼠标单击"><a href="#ALT-鼠标单击" class="headerlink" title="ALT + 鼠标单击"></a>ALT + 鼠标单击</h2><p>可以实现多行编辑</p><h2 id="ALT-↑-↓"><a href="#ALT-↑-↓" class="headerlink" title="ALT + ↑/↓"></a>ALT + ↑/↓</h2><p>可以将光标停留的行上下移动</p><h2 id="ALT-SHIFT-↑-↓"><a href="#ALT-SHIFT-↑-↓" class="headerlink" title="ALT + SHIFT + ↑/↓"></a>ALT + SHIFT + ↑/↓</h2><p>一边移动一边复制</p><h2 id="CTRL-L"><a href="#CTRL-L" class="headerlink" title="CTRL + L"></a>CTRL + L</h2><p>逐行高亮代码</p><h2 id="CTRL"><a href="#CTRL" class="headerlink" title="CTRL + /"></a>CTRL + /</h2><p>注释选中代码</p><h2 id="CTRL-K"><a href="#CTRL-K" class="headerlink" title="CTRL + K"></a>CTRL + K</h2><p>清除终端的内容或报错</p><h2 id="CTRL-‘-打开控制台"><a href="#CTRL-‘-打开控制台" class="headerlink" title="CTRL + ‘ 打开控制台"></a>CTRL + ‘ 打开控制台</h2><p>使用命令行进行操作</p><h2 id=""><a href="#" class="headerlink" title=" "></a> </h2><h1 id="VS-2022部分"><a href="#VS-2022部分" class="headerlink" title="VS 2022部分"></a>VS 2022部分</h1>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>知己知彼，百战不殆 —孙子《孙子兵法·谋攻篇》<br>在开始大批量地编程前，我们最好对自己使用的编程工具有一个比较清晰的认识<br>我将简单通过本文总结一下自己在游戏开发是遇到的IDE快捷键问题，帮助读者快速了解VScode和VS2022两款常用IDE</p><h1 id="VScode部分"><a href="#VScode部分" class="headerlink" title="VScode部分"></a>VScode部分</h1><p>你说得对，但是首先vscode是一个运行于MacOS X、Windows和Linux之上的，针对于编写现代Web和云应用的跨平台源代码编辑器；vscode免费而且功能强大，对JavaScript和NodeJS的支持非常好，自带很多功能，例如代码格式化，代码智能提示补全、Emmet插件等。<br>鉴于本人仅仅使用vscode来维护个人博客和进行一些算法练习，因此不过多介绍vscode的使用方法<br>视频连接:<a href="https://www.youtube.com/watch?v=ifTF3ags0XI">https://www.youtube.com/watch?v=ifTF3ags0XI</a></p><h2 id="CTRL-C"><a href="#CTRL-C" class="headerlink" title="CTRL + C"></a>CTRL + C</h2><p>复制</p><h2 id="CTRL-V"><a href="#CTRL-V" class="headerlink" title="CTRL + V"></a>CTRL + V</h2><p>粘贴</p><h2 id="CTRL-X"><a href="#CTRL-X" class="headerlink" title="CTRL + X"></a>CTRL + X</h2><p>剪切</p><h2 id="CTRL-P"><a href="#CTRL-P" class="headerlink" title="CTRL + P"></a>CTRL + P</h2><p>可以调出command palette（命令面板P）<br>1.可以通过输入搜索想要的文件名<br>2.可以通过输入<strong> &gt; </strong>可以调出能用的大部分指令<br>3.可以通过#后输入驼峰命名法的任意大写字母以得到想要的类与接口</p><h2 id="CTRL-G"><a href="#CTRL-G" class="headerlink" title="CTRL + G"></a>CTRL + G</h2><p>然后输入行号锁定到对应行号</p><h2 id="Shift-←-→"><a href="#Shift-←-→" class="headerlink" title="Shift + ←/→"></a>Shift + ←/→</h2><p>作用可以等同于用鼠标拖动部分文字</p><h2 id="CTRL-←-→"><a href="#CTRL-←-→" class="headerlink" title="CTRL + ←/→"></a>CTRL + ←/→</h2><p>实现单词之间移动</p><h2 id="CTRL-D"><a href="#CTRL-D" class="headerlink" title="CTRL + D"></a>CTRL + D</h2><p>可以实现多行编辑</p><h2 id="ALT-鼠标单击"><a href="#ALT-鼠标单击" class="headerlink" title="ALT + 鼠标单击"></a>ALT + 鼠标单击</h2><p>可以实现多行编辑</p><h2 id="ALT-↑-↓"><a href="#ALT-↑-↓" class="headerlink" title="ALT + ↑/↓"></a>ALT + ↑/↓</h2><p>可以将光标停留的行上下移动</p><h2 id="ALT-SHIFT-↑-↓"><a href="#ALT-SHIFT-↑-↓" class="headerlink" title="ALT + SHIFT + ↑/↓"></a>ALT + SHIFT + ↑/↓</h2><p>一边移动一边复制</p><h2 id="CTRL-L"><a href="#CTRL-L" class="headerlink" title="CTRL + L"></a>CTRL + L</h2><p>逐行高亮代码</p><h2 id="CTRL"><a href="#CTRL" class="headerlink" title="CTRL + /"></a>CTRL + /</h2><p>注释选中代码</p><h2 id="CTRL-K"><a href="#CTRL-K" class="headerlink" title="CTRL + K"></a>CTRL + K</h2><p>清除终端的内容或报错</p><h2 id="CTRL-‘-打开控制台"><a href="#CTRL-‘-打开控制台" class="headerlink" title="CTRL + ‘ 打开控制台"></a>CTRL + ‘ 打开控制台</h2><p>使用命令行进行操作</p><h2 id=""><a href="#" class="headerlink" title=" "></a> </h2><h1 id="VS-2022部分"><a href="#VS-2022部分" class="headerlink" title="VS 2022部分"></a>VS 2022部分</h1><p><code>error list的报错会缺失很多信息，不建议使用error list来Debug</code><br><code>如果要详细了解bug所在，请查看输出(output)</code></p><h2 id="Ctrl-F7"><a href="#Ctrl-F7" class="headerlink" title="Ctrl + F7"></a>Ctrl + F7</h2><p>单独编译.cpp代码(单独编译代码的时候链接不会发生)</p>]]></content>
       
       
       <categories>
@@ -383,11 +383,111 @@
     
     
     <entry>
+      <title>C++编程--山</title>
+      <link href="/2022/08/26/C++%E5%B1%B1/"/>
+      <url>/2022/08/26/C++%E5%B1%B1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C++编程--风</title>
+      <link href="/2022/08/26/C++%E9%A3%8E/"/>
+      <url>/2022/08/26/C++%E9%A3%8E/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note info simple"><p>本文是油管The Cherno C++的教程笔记，封面画师uid:93134161，画风肃杀冷峻，工业味很浓我很喜欢…</p></div><h1 id="1-第一段C-代码"><a href="#1-第一段C-代码" class="headerlink" title="1. 第一段C++代码"></a>1. 第一段C++代码</h1><p>在VS中新建空项目，并在空项目源文件夹中新建.cpp文件<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    std::cout&lt;&lt;<span class="string">&quot;HelloWorld&quot;</span>&lt;&lt;std::endl;</span><br><span class="line">    std::cin.<span class="built_in">get</span>();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><h1 id="2-C-如何工作"><a href="#2-C-如何工作" class="headerlink" title="2. C++如何工作"></a>2. C++如何工作</h1><p>C++如何从源文件(.cpp)转换为可执行二进制文件(.exe)?<br>以第一段代码为例</p><h2 id="2-1-预处理指令"><a href="#2-1-预处理指令" class="headerlink" title="2.1 预处理指令"></a>2.1 预处理指令</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span><span class="comment">//preprocessor语句</span></span></span><br></pre></td></tr></table></figure><p>任何以#(hash)开头的语句都是预处理指令，编译器(compiler)收到源文件的时候，它做的第一件事就是预处理所有预处理指令(preprocessor statement)，这就是这段语句为什么要叫预处理指令，在编译前编译器就已经把iostream文件复制粘贴到源文件里了，iostream是一个头文件，我们引用它是为了申明函数(function)cin和cout。</p><h2 id="2-2-主函数"><a href="#2-2-主函数" class="headerlink" title="2.2 主函数"></a>2.2 主函数</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">main</span>()</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>当运行代码时，主函数就是程序的入口，程序会从主函数的代码开始一行一行依次执行。当然也可以Control flow statements(控制流语句)或者是调用其他函数<br>主函数还有一个特性，它是一个返回值为整型的函数，不需要返回任何整型返回值，如果不返回默认是0。</p><h2 id="2-3-操作符和函数"><a href="#2-3-操作符和函数" class="headerlink" title="2.3 操作符和函数"></a>2.3 操作符和函数</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">std::cout&lt;&lt;<span class="string">&quot;HelloWorld!&quot;</span>&lt;&lt;std::endl;</span><br><span class="line">std::cin.<span class="built_in">get</span>();</span><br></pre></td></tr></table></figure><p>把<code>std::cout&lt;&lt;</code>、<code>&lt;&lt;std::endl</code>和<code>std::cin.get()</code>都可以被视为函数。<br><code>&lt;&lt;</code>是一个操作符。</p><h2 id="2-3-C-编译原理"><a href="#2-3-C-编译原理" class="headerlink" title="2.3 C++编译原理"></a>2.3 C++编译原理</h2><ol><li>复制粘贴所有预编译指令中的头文件到源文件</li><li><code>编译器</code>把一个个<code>.cpp文件</code>编译成一个个<code>object文件</code>，Windows编译器编译的扩展名是<code>.obj</code>。</li><li>然后<code>链接器(linker)</code>就把所有<code>.obj</code>文件链接起来成为<code>.exe</code>文件</li><li>编译的时候要保证所有函数都在main.cpp中申明(declare)了<br><code>注意：只有.cpp文件会被编译而头文件(.h)不会</code><br><code>函数签名(signature)错误会导致Link error</code><h2 id="解决方案配置-Configuration-和解决方案平台-Platform"><a href="#解决方案配置-Configuration-和解决方案平台-Platform" class="headerlink" title="解决方案配置(Configuration)和解决方案平台(Platform)"></a>解决方案配置(Configuration)和解决方案平台(Platform)</h2>一般来说可以再VS的工具栏里找到，解决方案配置默认有Debug和Release，解决方案平台默认有x64和x86<br>如果要更改解决方案配置就可以在<code>解决方案配置和解决方案平台下拉菜单</code>中点击配置管理器或者在<code>资源管理器</code>右键项目，选择属性(Properties),在更改配置管理的同时查看项目的属性，比如SDK版本。同时编译器和链接器的设置也在这里<h2 id="申明-declare-和定义-define"><a href="#申明-declare-和定义-define" class="headerlink" title="申明(declare)和定义(define)"></a>申明(declare)和定义(define)</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//main.cpp</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">Log</span><span class="params">(<span class="type">const</span> <span class="type">char</span>* message)</span><span class="comment">//Log函数的定义</span></span></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">Log</span>(<span class="string">&quot;HelloWorld!&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//log.cpp</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="comment">/*Log函数的申明*/</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">Log</span><span class="params">(<span class="type">const</span> <span class="type">char</span>* message)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    std::cout&lt;&lt; log &lt;&lt;std::endl;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C++编程--风</title>
+      <link href="/2022/08/26/C++%E7%81%AB/"/>
+      <url>/2022/08/26/C++%E7%81%AB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C++编程--林</title>
+      <link href="/2022/08/26/C++%E6%9E%97/"/>
+      <url>/2022/08/26/C++%E6%9E%97/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C#编程入门--转</title>
       <link href="/2022/03/01/C#%E8%BD%AC/"/>
       <url>/2022/03/01/C#%E8%BD%AC/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>IMG_7988.GIF</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
       
       <categories>
