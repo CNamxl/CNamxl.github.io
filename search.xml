@@ -408,11 +408,11 @@
     
     
     <entry>
-      <title>C++编程--山</title>
-      <link href="/2022/08/26/C++%E5%B1%B1/"/>
-      <url>/2022/08/26/C++%E5%B1%B1/</url>
+      <title>C++编程光速入门--林</title>
+      <link href="/2022/08/26/C++%E6%9E%97/"/>
+      <url>/2022/08/26/C++%E6%9E%97/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note info simple"><p>本文是油管The Cherno C++的教程笔记，封面画师uid:93134161，画风肃杀冷峻，工业味很浓我很喜欢…</p></div><h1 id="1-类class"><a href="#1-类class" class="headerlink" title="1.类class"></a>1.类class</h1><h2 id="1-1-简介"><a href="#1-1-简介" class="headerlink" title="1.1 简介"></a>1.1 简介</h2><p>艹，终于到类了，具体的封装特性我就不多提了，总之我们终于来到了oop(面向对象)编程阶段了。<br>简单点来说就是一种把万物都能化作一种数据和函数的集合的编程范式，这些是C语言所不具备的，而C++增加了这些功能<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Player</span></span><br><span class="line">&#123;</span><br><span class="line"> <span class="type">int</span> x,y</span><br><span class="line"> <span class="type">int</span> speed;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">Move</span><span class="params">(<span class="type">int</span> x,<span class="type">int</span> y)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">   player.x += x * player.spped;</span><br><span class="line">   player.y += y * player.speed;</span><br><span class="line">&#125; </span><br><span class="line">&#125;;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">Player player;</span><br><span class="line">player.x = <span class="number">5</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br>总之，类的加入让代码变得简洁易读。</p><h2 id="1-2-类与结构体-class-vs-structs"><a href="#1-2-类与结构体-class-vs-structs" class="headerlink" title="1.2 类与结构体(class vs structs)"></a>1.2 类与结构体(class vs structs)</h2><p>类默认下是private的,所以在上面的代码</p>]]></content>
       
       
       <categories>
@@ -433,9 +433,9 @@
     
     
     <entry>
-      <title>C++编程--林</title>
-      <link href="/2022/08/26/C++%E6%9E%97/"/>
-      <url>/2022/08/26/C++%E6%9E%97/</url>
+      <title>C++编程--山</title>
+      <link href="/2022/08/26/C++%E5%B1%B1/"/>
+      <url>/2022/08/26/C++%E5%B1%B1/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -483,7 +483,7 @@
     
     
     <entry>
-      <title>C++编程--风</title>
+      <title>C++编程光速入门--风</title>
       <link href="/2022/08/26/C++%E9%A3%8E/"/>
       <url>/2022/08/26/C++%E9%A3%8E/</url>
       
